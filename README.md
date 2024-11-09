@@ -1,10 +1,20 @@
-Front-end Test
+# Front-end Test
 Fwd: แบบทดสอบประเมินสมัครงาน Developer บริษัท Tossagun Digital new generation Co.,LTD
 
-เริ่ม project
-- npm i
-1. npm run dev
-2. npx json-server --watch data/db.json --port 8000
+## เริ่ม project
+```bash
+npm i
+```
+
+1. รันหน้าบ้าน
+
+```bash
+npm run dev
+```
+2. รัน data mockup
+```bash
+npx json-server --watch data/db.json --port 8000
+```
 
 
 ![image](https://github.com/user-attachments/assets/766674fe-ab99-42fe-acfa-599d55e30a1c)
